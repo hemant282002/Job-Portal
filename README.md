@@ -80,4 +80,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 Hemant Meshram - [GitHub](https://github.com/hemant282002)
 
-Project Link: [https://github.com/hemant282002/react-job-portal.git](https://github.com/hemant282002/react-job-portal.git)
+Project Link: https://github.com/hemant282002/Job-Portal
